@@ -2,4 +2,4 @@
 
 forever stop app.js
 npm install
-NODE_ENV=production forever start app.js
+NODE_ENV=production forever start bin/www
