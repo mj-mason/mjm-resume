@@ -275,15 +275,15 @@ h1, h2, h3, h4, h5, h6 {
   font-style: normal;
 }
 
-#fh5co-home {
+#fh5co-home {  background-image: url(../images/mike-dev.jpg);
   background-color: transparent;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
   width: 100%;
-  background-color: #9fa3a5;
   color: #fff;
 }
+
 #fh5co-home a {
   color: rgba(255, 255, 255, 0.8) !important;
   text-decoration: underline;
@@ -357,6 +357,10 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-home .text-inner .call-to-action a.demo {
     margin-bottom: 20px;
   }
+
+    #fh5co-home {
+        background-image: url(../images/mike-dev-small.jpg);
+    }
 }
 #fh5co-home .text-inner .call-to-action a.demo:hover {
   background: rgba(255, 255, 255, 0.2);
