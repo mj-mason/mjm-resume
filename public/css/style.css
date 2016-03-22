@@ -497,6 +497,16 @@ h1, h2, h3, h4, h5, h6 {
     color: #1fb5f6;
 }
 
+.education-list{
+    text-align: left;
+}
+
+@media screen and (max-width: 992px) {
+    .education-list{
+        text-align: center;
+    }
+}
+
 #fh5co-testimony .wrap-testimony {
     position: relative;
     width: 100%;
