@@ -1,6 +1,7 @@
 .added-visibility{
     background: rgba(0,0,0,0.65);
     color: white;
+    border-radius: 5px;
 }
 
 @font-face {
