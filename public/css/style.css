@@ -1375,4 +1375,14 @@ h1, h2, h3, h4, h5, h6 {
     border: 2px solid #ff3b30;
 }
 
+#projects-extra-row {
+    padding-top: 80px;
+}
+
+@media screen and (max-width: 992px) {
+    #projects-extra-row {
+        padding-top: 0;
+    }
+}
+
 /*# sourceMappingURL=style.css.map */
