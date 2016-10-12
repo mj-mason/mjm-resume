@@ -1395,4 +1395,9 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+.job-title-text {
+    color: #535659;
+    font-weight: bold;
+}
+
 /*# sourceMappingURL=style.css.map */
