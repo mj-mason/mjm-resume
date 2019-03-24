@@ -897,7 +897,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-heading h3 {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 400;
     line-height: 1.5;
     color: #8f989f;
@@ -920,7 +920,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width: 768px) {
     .section-heading h3 {
-        font-size: 16px !important;
+        font-size: 20px !important;
         line-height: 28px;
     }
 }
