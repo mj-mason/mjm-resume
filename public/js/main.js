@@ -170,7 +170,7 @@
 
 		}
 	};
-
+/*
 	var exploreAnimate = function() {
 
 		var explore = $('#fh5co-explore');
@@ -600,7 +600,7 @@
 
 		}
 	};
-
+*/
 
 	// Document on load.
 	$(function(){
@@ -614,7 +614,7 @@
 		
 		// Animations
 		homeAnimate();
-		exploreAnimate();
+/*		exploreAnimate();
 		testimonyAnimate();
 		gettingStartedAnimate();
 		gettingStarted2Animate();
@@ -624,7 +624,7 @@
 		faqAnimate();
 		trustedAnimate();
 		footerAnimate();
-		
+*/		
 
 	});
 
